@@ -1,5 +1,9 @@
 # Synopsis Playground
-Playground for Testing Synopsis Blackduck APIs
+Playground for Testing Synopsis APIs
+
+- Coverity
+- Black Duck
+- Seeker
 
 ## Environment File
 
